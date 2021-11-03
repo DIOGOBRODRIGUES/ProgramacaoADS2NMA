@@ -2,7 +2,7 @@
 
 namespace Aula3EntradaSaidaADS2NMA
 {
-    class Program
+    class Aula3
     {
         static void Main(string[] args)
         {

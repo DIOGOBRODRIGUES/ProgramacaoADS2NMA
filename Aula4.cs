@@ -2,7 +2,7 @@
 
 namespace Aula4_2NMA_ADS
 {
-    class Program
+    class Aula4
     {
         static void Main(string[] args)
         {
@@ -92,7 +92,7 @@ namespace Aula4_2NMA_ADS
             Console.ReadKey();
             //-------------------------------------------------------------------------*/
 
-            //exemplo 5 - ----------------------------------------------
+            /*//exemplo 5 - ----------------------------------------------
 
             int mes = DateTime.Today.Month;
             switch(mes)
@@ -113,6 +113,8 @@ namespace Aula4_2NMA_ADS
                     Console.WriteLine("Outro Mês");
                     break;
             }
+
+            //----------------------------------------------------------------------*/1
         }
     }
 }
